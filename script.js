@@ -17,12 +17,6 @@ const products = [
         price: 3299.99,
         image: "https://images.unsplash.com/photo-1556449895-a33c9dba33dd?w=400&h=300"
     },
-    {
-        id: 4,
-        name: "Taylor 814ce",
-        price: 3499.99,
-        image: "https://images.unsplash.com/photo-1619824130478-2f178c318769?w=400&h=300"
-    }
 ];
 
 let cartCount = 0;
